@@ -1,5 +1,5 @@
 {
-  "name": "git-test",
+  "name": "ls",
   "version": "1.0.0",
   "description": "Git and NPM",
   "main": "index.html",
@@ -20,5 +20,6 @@
   "homepage": "https://github.com/neptunezero/git-test#readme",
   "devDependencies": {
     "lite-server": "^2.6.1"
-  }
+  },
+  "dependencies": {}
 }
